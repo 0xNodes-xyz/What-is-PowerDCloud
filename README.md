@@ -2,7 +2,7 @@
 
 Let's build really decentralized Web3 together without using any centralized clouds or service providers.
 
-Website: thepower.io
+Website: https://thepower.io
 
 Power DCloud Twitter: https://twitter.com/thepowerio 
 
